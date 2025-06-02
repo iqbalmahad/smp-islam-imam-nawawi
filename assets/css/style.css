@@ -437,15 +437,12 @@ p {
     left: -240px;
     overflow-y: scroll;
     transition: all 0.25s;
+    z-index: 100;
   }
 
   .nav-device.show {
     font-size: 1rem;
     left: 0;
-  }
-
-  .nav-device.show.menu {
-    display: flex;
   }
 
   .menu {
