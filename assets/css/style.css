@@ -136,7 +136,7 @@ nav {
 
 .jumbotron {
   position: relative;
-  background: url("/assets/img/gambar-latar-sekolah.jpg") no-repeat center
+  background: url("/assets/img/gambar-latar-sekolah.jpeg") no-repeat center
     center/cover;
   height: 100vh;
   display: flex;
