@@ -134,17 +134,6 @@ nav {
   width: 200px;
 }
 
-.jumbotron {
-  position: relative;
-  background: url("assets/img/gambar-latar-sekolah.jpeg") no-repeat center
-    center/cover;
-  height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: white;
-}
-
 .jumbotron-overlay {
   background-color: rgba(0, 0, 0, 0.6); /* overlay gelap */
   width: 100%;
